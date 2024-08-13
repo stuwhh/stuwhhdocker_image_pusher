@@ -8,3 +8,4 @@ jgraph/drawio:16.6.1
 jgraph/export-server
 nextcloud
 idootop/mi-gpt:latest
+kuaifan/dootask:latest
