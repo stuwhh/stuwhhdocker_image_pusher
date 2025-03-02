@@ -9,3 +9,4 @@ jgraph/export-server
 nextcloud
 idootop/mi-gpt:latest
 kuaifan/dootask:latest
+idootop/mi-gpt:latest
