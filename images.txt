@@ -1,1 +1,1 @@
-lmk123/migpt-cli:latest
+lmk123/migpt-cli
